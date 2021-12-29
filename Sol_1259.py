@@ -1,4 +1,6 @@
 # 38:18s
+# 팰린드롭수
+# https://www.acmicpc.net/problem/1259
 
 while True:
   temp1 = []
